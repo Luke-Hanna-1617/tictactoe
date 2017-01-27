@@ -1,0 +1,19 @@
+from turtle import *
+speed(0)
+color("blue")
+def o():
+    for i in range (72):
+        left(5)
+        forward(2.5)
+o()
+
+
+from turtle import *
+speed(500)
+color("red")
+left(60)
+forward(70)
+backward(35)
+right(110)
+backward(35)
+forward(70)
